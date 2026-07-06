@@ -5,3 +5,4 @@ import VojtaConjectureCanonicalLaneLean.SourceDependencies
 import VojtaConjectureCanonicalLaneLean.Formalization
 import VojtaConjectureCanonicalLaneLean.ReviewerBridge
 import VojtaConjectureCanonicalLaneLean.TheoremStatement
+import VojtaConjectureCanonicalLaneLean.MathlibStatement
